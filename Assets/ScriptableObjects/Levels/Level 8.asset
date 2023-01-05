@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27d5e1cc406adef49b5d383bc9765b2d, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  rewardObjs:
+  - {fileID: 11400000, guid: afab5c0f36db9da4caeb10180e63f3f3, type: 2}
+  - {fileID: 11400000, guid: 4eceffdc993fa1b46893b26e2aa944c1, type: 2}
+  - {fileID: 11400000, guid: cae90a7e880a84a4aa1b908d27bec99d, type: 2}
+  - {fileID: 11400000, guid: 55f9f6205a7885943ba7659a23e40cbb, type: 2}
+  - {fileID: 11400000, guid: b4529fa0587e3694d9303bf7ad40a30a, type: 2}
+  - {fileID: 11400000, guid: b255bf51a5b8e9a449cd49a01e390d42, type: 2}
+  - {fileID: 11400000, guid: fd28a91d7ab01f640b325eb5221dc720, type: 2}
+  - {fileID: 11400000, guid: 0c429c27eb7b9f547a38a823f6d4bc68, type: 2}
+  possibilities:
+  - 10
+  - 10
+  - 15
+  - 15
+  - 15
+  - 15
+  - 10
+  - 10
